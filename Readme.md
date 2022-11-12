@@ -1,0 +1,1 @@
+Balancing Robot, with Stepper motor controlled with STM32 MCU and Raspberry for higherlevel processing
